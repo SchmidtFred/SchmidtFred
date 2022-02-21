@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hellur
+
+I'm a former Band Director turned aspiring game/software developer in Nashville, Tennessee. I am currently enrolled at the Nashville Software School. On the web/software side I enjoy working on unique projects and tackling the interesting challenges they pose. 
 
 <!--
 **SchmidtFred/SchmidtFred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
